@@ -2,7 +2,7 @@
  
 ### Detail of dataset used for model development :
 
-Malaria Blodd Cell Image: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+Malaria Blood Cell Image: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 ### Tools used for project development:
 
